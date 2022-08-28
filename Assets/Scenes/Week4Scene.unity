@@ -168,7 +168,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 770bc5ea958cbaa46bc3c3a5da1bd8f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  redObj: {fileID: 316777560319968014, guid: 83b0c54e005606b459799c3edf8ade4f, type: 3}
+  redObj: {fileID: 8708128029851974050, guid: 97be1093d2b7b524fa6fea2edbaa1a85, type: 3}
+  blueObj: {fileID: 7261422714389838670, guid: 6ee4687a854cc5c468de35e378406275, type: 3}
 --- !u!1 &516932471
 GameObject:
   m_ObjectHideFlags: 0
