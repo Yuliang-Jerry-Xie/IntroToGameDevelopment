@@ -22,7 +22,9 @@ public class LoadAssets: MonoBehaviour
            {
              Instantiate(blueObj, new Vector3(-2, 0, 0), Quaternion.identity);
            }
-        
+
+        Application.targetFrameRate = 60;
+
     }
     
       
